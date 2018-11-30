@@ -1,7 +1,7 @@
 .vscode/
-DaSiamRPN/test/
-DaSiamRPN/__pycache__/
-DaSiamRPN/.git
+other/DaSiamRPN/test/
+other/DaSiamRPN/__pycache__/
+other/DaSiamRPN/.git
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
